@@ -33,14 +33,14 @@
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>tallerPN-ejb</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>${project.groupId}</groupId>
             <artifactId>tallerPN-web</artifactId>
             <version>${project.version}</version>
             <type>war</type>
+        </dependency>
+        <dependency>
+            <groupId>com.matoosfe</groupId>
+            <artifactId>tallerPN-ejb</artifactId>
+            <version>1.0</version>
         </dependency>
     </dependencies>
     

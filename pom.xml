@@ -68,8 +68,8 @@
         </plugins>
     </build>
     <modules>
-        <module>tallerPabloNejb</module>
-        <module>tallerPN-web_war</module>
+        <module>tallerPN_ejb_1.0</module>
+        <module>tallerPN-web_war_1.0</module>
         <module>tallerPN_ear</module>
     </modules>
 </project>
